@@ -1,4 +1,4 @@
-# What's For Dinner?
+# What's For Dinner? (Restaurant Decider)
 
 This is an app for couples that can't decide where to go eat.
 
