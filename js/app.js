@@ -168,8 +168,8 @@ function chart() {
 }
 
 function mouseClicks(event) {
-  // Enables the user to surpass 30 views. shows results after.
-  if (totalClicks === 30) {
+  // Enables the user to surpass 20 views. shows results after.
+  if (totalClicks === 20) {
     imgBoxes.removeEventListener('click', mouseClicks);
     tallyUp();
     localStorage.clear();
