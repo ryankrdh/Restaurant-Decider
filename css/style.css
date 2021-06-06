@@ -1,0 +1,43 @@
+html {
+  background-color: darkgrey;
+}
+
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 50px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+#boxes {
+  width: 900px;
+  height: 200px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+#chart {
+  width: 800px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+img {
+  object-fit: contain;
+  width: 270px;
+  height: 100%;
+  margin: 10px;
+}
+
+body section li {
+  color: rgb(52, 16, 151);
+}
+
+h1 {
+  text-align: center;
+}
