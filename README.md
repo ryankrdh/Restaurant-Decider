@@ -12,8 +12,7 @@ To practice what I know and to try and create a survey based app that helps coup
 
 ## Getting Started
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click to Start! <br />
-<a href="https://ryankrdh.github.io/restaurant-Decider/">click to start</a>
+<a href="https://ryankrdh.github.io/Restaurant-Decider/">click to start app</a>
 
 ## Deployment
 
