@@ -12,7 +12,8 @@ To practice what I know and to try and create a survey based app that helps coup
 
 ## Getting Started
 
-Download all files and folders into ONE folder. Open "index.html" to play.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Click to Start! <br />
+<a href="https://ryankrdh.github.io/restaurant-Decider/"></a>
 
 ## Deployment
 
