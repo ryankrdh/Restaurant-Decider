@@ -40,7 +40,7 @@ new NearbyRestaurants('Fastfood', 'img/burger.jpg');
 new NearbyRestaurants('Chinese', 'img/chinese.jpg');
 new NearbyRestaurants('Fried Chicken', 'img/friedchicken.jpg');
 new NearbyRestaurants('Hotpot', 'img/hotpot.jpg');
-new NearbyRestaurants('Italian', 'img/italian.jpg');
+new NearbyRestaurants('Italian', 'img/Italian.jpg');
 new NearbyRestaurants('Korean', 'img/korean.jpg');
 new NearbyRestaurants('Teriyaki', 'img/teriyaki.jpg');
 new NearbyRestaurants('Indian', 'img/indian.jpg');
